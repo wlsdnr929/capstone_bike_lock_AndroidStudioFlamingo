@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440173758208",
+    "firebase_url": "https://matrix-9ebda-default-rtdb.firebaseio.com",
+    "project_id": "matrix-9ebda",
+    "storage_bucket": "matrix-9ebda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440173758208:android:a2d43bf40049a00c8495e5",
+        "android_client_info": {
+          "package_name": "com.example.wifiwithkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440173758208-e9svgb2ttkngn1p1l5ct2a149pg32jo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTHndWzxqmnhwE984W1pml1W2311OseE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440173758208-e9svgb2ttkngn1p1l5ct2a149pg32jo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
