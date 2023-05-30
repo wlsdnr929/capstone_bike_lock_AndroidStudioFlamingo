@@ -70,6 +70,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         binding.button.setOnClickListener{
             latLngList.clear()
+            uploadList.clear()
             mMap.clear()
             movedistance = 0.0f
             val textView: TextView = findViewById(R.id.textview)
