@@ -58,6 +58,7 @@ class RouteActivity : AppCompatActivity(), OnMapReadyCallback {
         setContentView(R.layout.activity_route)
 
         chart = findViewById(R.id.linechart);
+        graphList.clear()
 
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         val mapFragment: SupportMapFragment = supportFragmentManager.findFragmentById(R.id.mapview2) as SupportMapFragment
