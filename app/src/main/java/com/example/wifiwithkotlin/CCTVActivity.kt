@@ -13,7 +13,7 @@ class CCTVActivity : AppCompatActivity() {
 
         val webview:WebView = findViewById(R.id.webview)
         webview.webViewClient = WebViewClient()
-        webview.loadUrl("http://192.168.179.237/mjpeg/1")
+        webview.loadUrl("http://192.168.0.101/mjpeg/1")
         //webview.loadUrl("https://www.naver.com/")
 
         val finish_button:Button = findViewById(R.id.btnFinish)

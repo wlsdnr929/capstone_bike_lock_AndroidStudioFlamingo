@@ -152,7 +152,7 @@ class MainActivity : AppCompatActivity() {
         //Thread(ConnectThread("192.168.0.54", 8090)).start()
         // 원찬 핫스팟
         //Thread(ConnectThread("192.168.215.192", 8090)).start()
-        Thread(ConnectThread("192.168.179.192", 8090)).start()
+        Thread(ConnectThread("192.168.0.104", 8090)).start()
 
         binding.imageButton.setOnClickListener {
             if(isLock){
